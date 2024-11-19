@@ -219,12 +219,6 @@
     color: var(--primary) !important;
 }
 
-/* Contenedor general sin bordes ni márgenes */
-.container-fluid {
-    padding: 0 !important; /* Quita padding del contenedor */
-    margin: 0 !important;  /* Quita márgenes del contenedor */
-}
-
 /* Fila sin márgenes laterales */
 .row.g-0 {
     margin: 0 !important; /* Quita cualquier margen adicional */
